@@ -1,0 +1,1031 @@
+[
+   {
+      "name": "Abdul Sakil Mondal",
+      "country": "IN",
+      "github_username": "sakilmondal",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=6151980",
+      "telegram_url": "http://t.me/SakilMondal",
+      "devices": [
+         {
+            "codename": "whyred",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "sakilmondal"
+   },
+   {
+      "name": "Abhinav Gupta",
+      "country": "IN",
+      "github_username": "abhinavgupta371",
+      "telegram_url": "http://t.me/abhinavgupta371",
+      "devices": [
+         {
+            "codename": "tissot",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "abhinavgupta371"
+   },
+   {
+      "name": "AngeloGioacchino Del Regno",
+      "country": "IT",
+      "github_username": "kholk",
+      "devices": [
+         {
+            "codename": "j8210",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "j9210",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "j8110",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "j9110",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h8416",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h9436",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h8216",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h8266",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h8314",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h8324",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "i3213",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "i4213",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "i3113",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "i4113",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h3413",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h4413",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h3213",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h4213",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h3113",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h4113",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "g8341",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "g8342",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "g8441",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "g8141",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "g8142",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "xqau51",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "xqau52",
+            "versions": [
+               "eleven"
+            ]
+         }
+      ],
+      "ci_username": "kholk"
+   },
+   {
+      "name": "Angga Satya Putra",
+      "country": "ID",
+      "github_username": "anggasp",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=5153731",
+      "devices": [],
+      "ci_username": "anggasp"
+   },
+   {
+      "name": "Billaids",
+      "country": "DE",
+      "github_username": "billaids",
+      "xda_url": "https://forum.xda-developers.com/m/billaids.10408595/",
+      "telegram_url": "http://t.me/billaids",
+      "devices": [
+         {
+            "codename": "billie",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ],
+            "main_maintainer": true
+         }
+      ],
+      "ci_username": "billaids"
+   },
+   {
+      "name": "Chandra Chaganti",
+      "country": "IN",
+      "github_username": "chandra-chaganti",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=7600620",
+      "telegram_url": "http://t.me/ChandraChaganti",
+      "devices": [
+         {
+            "codename": "instantnoodlep",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ],
+            "main_maintainer": true
+         },
+         {
+            "codename": "instantnoodle",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ],
+            "main_maintainer": true
+         },
+         {
+            "codename": "kebab",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ],
+            "main_maintainer": true
+         }
+      ],
+      "ci_username": "chandrachaganti"
+   },
+   {
+      "name": "Elias",
+      "country": "FR",
+      "github_username": "themalachite",
+      "xda_url": "https://forum.xda-developers.com/m/themalachite.9609718/",
+      "telegram_url": "https://t.me/TheMalachite",
+      "devices": [
+         {
+            "codename": "v7101o",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "begonia",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "themalachite"
+   },
+   {
+      "name": "Evasi0n Xiao",
+      "country": "CN",
+      "github_username": "ecrosoftxiao",
+      "xda_url": "",
+      "telegram_url": "http://t.me/Evasi0nXiao",
+      "devices": [
+         {
+            "codename": "cepheus",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "ecrosoftxiao"
+   },
+   {
+      "name": "Gaurav",
+      "country": "IN",
+      "github_username": "gaurav241",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=8029593",
+      "telegram_url": "http://t.me/Gaurav24",
+      "devices": [
+         {
+            "codename": "oneplus3",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         },
+         {
+            "codename": "X01BD",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "gaurav241"
+   },
+   {
+      "name": "Giammarco Senatore",
+      "country": "IT",
+      "github_username": "giasen",
+      "xda_url": "https://forum.xda-developers.com/m/giasen.8167844/",
+      "telegram_url": "http://t.me/GiaSen",
+      "devices": [
+         {
+            "codename": "mido",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         },
+         {
+            "codename": "kunlun2",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         },
+         {
+            "codename": "dipper",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "giasen"
+   },
+   {
+      "name": "Jacob Deepu",
+      "country": "IN",
+      "github_username": "jacobdeepu",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=9732522",
+      "telegram_url": "https://t.me/JacobDeepu",
+      "devices": [
+         {
+            "codename": "land",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "jacobdeepu"
+   },
+   {
+      "name": "Jarl-Penguin",
+      "country": "KR",
+      "github_username": "jarlpenguin",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=9506129",
+      "telegram_url": "http://t.me/JarlPenguin",
+      "devices": [
+         {
+            "codename": "river",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "jarlpenguin"
+   },
+   {
+      "name": "Jean Graff",
+      "country": "BR",
+      "github_username": "jeangraff30",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=9466600",
+      "telegram_url": "https://t.me/JeanGraff30",
+      "devices": [
+         {
+            "codename": "ali",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         },
+         {
+            "codename": "albus",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "jeangraff30"
+   },
+   {
+      "name": "Jonas Cardoso",
+      "country": "BR",
+      "github_username": "jonascardoso",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=5784821",
+      "telegram_url": "http://t.me/JonasCardoso",
+      "devices": [
+         {
+            "codename": "gemini",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         },
+         {
+            "codename": "capricorn",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         },
+         {
+            "codename": "natrium",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         },
+         {
+            "codename": "scorpio",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         },
+         {
+            "codename": "lithium",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "jonascardoso"
+   },
+   {
+      "name": "Juampapo546",
+      "country": "AR",
+      "github_username": "juampapo546",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=9141885",
+      "telegram_url": "http://t.me/juampapo546",
+      "devices": [
+         {
+            "codename": "evert",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "juampapo546"
+   },
+   {
+      "name": "Kuba Wojciechowski",
+      "country": "PL",
+      "github_username": "nullbytepl",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=8493232",
+      "telegram_url": "http://t.me/nullby",
+      "devices": [
+         {
+            "codename": "TP1803",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         },
+         {
+            "codename": "surya",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "nullbytepl"
+   },
+   {
+      "name": "Lakshay Garg",
+      "country": "IN",
+      "github_username": "lakgarg",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=9537214",
+      "telegram_url": "http://t.me/planckton",
+      "devices": [
+         {
+            "codename": "beryllium",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "lakshay18"
+   },
+   {
+      "name": "Luiz Dores",
+      "country": "BR",
+      "github_username": "luizdores",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=6826334",
+      "telegram_url": "http://t.me/luizdores",
+      "devices": [
+         {
+            "codename": "ocean",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "luizdores"
+   },
+   {
+      "name": "Luke WIlliams",
+      "country": "GB",
+      "github_username": "expressluke",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=7166349",
+      "telegram_url": "https://t.me/ogexpressluke",
+      "devices": [],
+      "ci_username": "expressluke"
+   },
+   {
+      "name": "Luís Ferreira",
+      "country": "PT",
+      "github_username": "ljmf00",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=5414107",
+      "telegram_url": "https://t.me/ljmf00",
+      "devices": [],
+      "ci_username": "ljmf00"
+   },
+   {
+      "name": "Nafid Faham",
+      "country": "BD",
+      "github_username": "faham1997",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=8203848",
+      "telegram_url": "http://t.me/letsmakecakes",
+      "devices": [
+         {
+            "codename": "lavender",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "letsmakecakes"
+   },
+   {
+      "name": "Nicholas Magill",
+      "country": "GB",
+      "github_username": "inkypen79",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=9382231",
+      "telegram_url": "https://t.me/Inkypen",
+      "devices": [
+         {
+            "codename": "andromeda",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "inkypen"
+   },
+   {
+      "name": "Paul Bouchara",
+      "country": "FR",
+      "github_username": "paulbouchara",
+      "telegram_url": "http://t.me/Redkaled",
+      "devices": [
+         {
+            "codename": "j8210",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "j9210",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "j8110",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "j9110",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h8416",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h9436",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h8216",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h8266",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h8314",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h8324",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "i3213",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "i4213",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "i3113",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "i4113",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h3413",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h4413",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h3213",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h4213",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h3113",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "h4113",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "g8341",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "g8342",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "g8441",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "g8141",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "g8142",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "xqau51",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "xqau52",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "xqas52",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "xqat51",
+            "versions": [
+               "eleven"
+            ]
+         },
+         {
+            "codename": "xqat52",
+            "versions": [
+               "eleven"
+            ]
+         }
+      ],
+      "ci_username": "redkaled"
+   },
+   {
+      "name": "PixelBoot",
+      "country": "MT",
+      "github_username": "pixelboot",
+      "xda_url": "https://forum.xda-developers.com/m/pixelboot.8086838",
+      "telegram_url": "https://t.me/PixelBoot",
+      "devices": [
+         {
+            "codename": "sailfish",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         },
+         {
+            "codename": "marlin",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         },
+         {
+            "codename": "walleye",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         },
+         {
+            "codename": "taimen",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "pixelboot"
+   },
+   {
+      "name": "Pulkit Agarwal",
+      "country": "IN",
+      "github_username": "pulkit077",
+      "xda_url": "https://forum.xda-developers.com/m/pulkit-agarwal.8788269/",
+      "telegram_url": "http://t.me/Pulkit077",
+      "devices": [
+         {
+            "codename": "rosy",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "pulkit077"
+   },
+   {
+      "name": "Saalim",
+      "country": "IN",
+      "github_username": "danascape",
+      "xda_url": "https://forum.xda-developers.com/m/iamsaalim.9254143/",
+      "telegram_url": "http://t.me/gabbyintegral",
+      "devices": [
+         {
+            "codename": "ginkgo",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         },
+         {
+            "codename": "X01AD",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "saalim"
+   },
+   {
+      "name": "Samar Vispute",
+      "country": "IN",
+      "github_username": "samarv-121",
+      "telegram_url": "http://t.me/SamarV121",
+      "devices": [
+         {
+            "codename": "RMX1851",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "samarv121"
+   },
+   {
+      "name": "Shubham Das",
+      "country": "IN",
+      "github_username": "dasshubham762",
+      "xda_url": "https://forum.xda-developers.com/m/dasshubham762.8330494/",
+      "telegram_url": "http://t.me/dasshubham762",
+      "devices": [
+         {
+            "codename": "violet",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "dasshubham762"
+   },
+   {
+      "name": "Subins Mani",
+      "country": "IN",
+      "github_username": "subinsmani",
+      "xda_url": "https://forum.xda-developers.com/m/subinsmani.7868666/",
+      "telegram_url": "http://t.me/Subinsmani",
+      "devices": [
+         {
+            "codename": "X00TD",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "subinsmani"
+   },
+   {
+      "name": "Zilberto Junior",
+      "country": "BR",
+      "github_username": "zjunior06",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=7233293",
+      "telegram_url": "http://t.me/zjunior06",
+      "devices": [
+         {
+            "codename": "potter",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "zjunior06"
+   },
+   {
+      "name": "Zinadin Zidan",
+      "country": "BD",
+      "github_username": "zidan44",
+      "xda_url": "https://forum.xda-developers.com/m/zidan44.9782219/",
+      "telegram_url": "https://t.me/ZIDAN44",
+      "devices": [
+         {
+            "codename": "apollo",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         },
+         {
+            "codename": "begonia",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ],
+            "main_maintainer": true
+         },
+         {
+            "codename": "sakura",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "zidan44"
+   },
+   {
+      "name": "idkwhoiam322",
+      "country": "IN",
+      "github_username": "idkwhoiam322",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=6609957",
+      "telegram_url": "https://t.me/idkwhoiam322",
+      "devices": [
+         {
+            "codename": "guacamoleb",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         },
+         {
+            "codename": "guacamole",
+            "versions": [
+               "eleven"
+            ]
+         }
+      ],
+      "ci_username": "idkwhoiam322"
+   },
+   {
+      "name": "jro1979oliver",
+      "country": "BR",
+      "github_username": "jro1979oliver",
+      "xda_url": "https://forum.xda-developers.com/m/jeferson1979.8863813/",
+      "telegram_url": "http://t.me/jro1979oliver",
+      "devices": [
+         {
+            "codename": "beckham",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "jro1979oliver"
+   },
+   {
+      "name": "solidv",
+      "country": "PT",
+      "github_username": "solidv",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=3590119",
+      "telegram_url": "http://t.me/solidv",
+      "devices": [
+         {
+            "codename": "sirius",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "solidv"
+   },
+   {
+      "name": "trpsl",
+      "country": "RS",
+      "github_username": "trpsl",
+      "xda_url": "https://forum.xda-developers.com/member.php?u=8399533",
+      "telegram_url": "http://t.me/trpsl",
+      "devices": [
+         {
+            "codename": "davinci",
+            "versions": [
+               "eleven",
+               "eleven_plus"
+            ]
+         }
+      ],
+      "ci_username": "trpsl"
+   }
+]

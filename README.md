@@ -1,42 +1,53 @@
-# Pixel Experience
+# PixelExperience
 ## Official devices application
 
-Devices repository: https://github.com/PixelExperience-Devices
+Devices repository: [PixelExperience-Devices](https://github.com/PixelExperience-Devices)
 
-Before open a pull request to add your device into our list of official devices, you should know a few simple things:
+Before you apply to add your device into our list of official devices, you should know a few things:
 
-### 1. Hosting
+### 1. How to apply?
 
-Our files are hosted on [Android File Host](http://androidfilehost.com/), this means you must have a developer account to host the builds of your device.
+You must fulfill the following requirements before applying:
 
-The folder must be in **hidden mode**, so our [download portal](https://download.pixelexperience.org/) can manage statistics correctly.
+- [Maintainers requirements](https://github.com/PixelExperience/docs/blob/master/maintainers_requirements.md)
 
-### 2. Changelog
-For each new version, you need to upload the changelog to this repository in the device specific folder.
+- [Device requirements](https://github.com/PixelExperience/docs/blob/master/device_requirements.md)
 
-The changelog file name must match the **.zip** file name and should end with **.txt**
-Eg: **.zip** is **PixelExperience_potter-8.1.0-20180207-0418-OFFICIAL.zip**, changelog file name should be **PixelExperience_potter-8.1.0-20180207-0418-OFFICIAL.txt**
+- [Maintainers' code of conduct](https://github.com/PixelExperience/docs/blob/master/maintainers_code_of_conduct.md)
 
-### 3. Over-the-air (OTA) updates
-Our system is automatic, you should not worry about updating some script, just upload the new build to the Android File Host device folder and send a pull request with the changelog in this repository.
+You must be aware that just fulfilling these requirements doesn't necessarily mean that you're going to be accepted. We will also consider some other points if necessary, like experience or how your behavior is towards other people (users or otherwise), and even with some technical stuff.
 
-**Note:** New builds can take up to 30 minutes to appear on the site and in the OTA application.
+### 2. OTA and Hosting
 
-### 4. JSON params
+Our OTA system is automatic, you should not worry about updating some script. The builds are hosted on our own server. You must build the official releases on our CI, no builds outside of it can be released as official. After the build is tested, you may release it.
+
+### 3. JSON params
+
+##### devices.json
 | Param | Description | Required |
 |--|--|--|
 | name | Device name | Yes |
 | brand | Device manufacturer | Yes |
 | codename | Device codename, eg: falcon | Yes |
-| version_code | Version code, lowercase, eg: oreo | Yes |
-| version_name | Version name, will be shown on download portal, eg: Oreo | Yes |
-| afh_folder | URL of your hidden AFH folder, eg: https://www.androidfilehost.com/?w=files&flid=229608 | Yes |
-| maintainer_name | Your name | Yes |
-| maintainer_url | Your personal URL, eg: https://github.com/jhenrique09/ or https://forum.xda-developers.com/member.php?u=6519039 | No  |
-| xda_thread | XDA thread URL, eg: https://forum.xda-developers.com/g5-plus/development/rom-pixel-experience-t3704064 | No |
+| version_code | Version code (ten or ten_plus) | Yes |
+| repositories | Array containing needed repositories by your device | Yes |
+| stable | Set to false if the version is beta (true by default) | No |
+| deprecated | Set to true if the device is no longer maintained (false by default) | No |
 
-### 5. Build type
-You need to add 'export CUSTOM_BUILD_TYPE=OFFICIAL' in your build environment so OTA app will be included.
+##### team/maintainers.json
+| Param | Description | Required |
+|--|--|--|
+| name | Your name (or nickname) | Yes |
+| country | ISO-3166 Alpha 2 code of your country (2 digits, you can get from https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) | Yes |
+| ci_username | Alphanumeric username, to be used in our CI | Yes |
+| github_username | Your GitHub username (eg: https://github.com/jhenrique09/) | Yes |
+| devices | Array with the device and the respective version that you maintain | Yes |
+| xda_url | Direct url of your XDA profile (eg: https://forum.xda-developers.com/member.php?u=6519039) | No |
+| telegram_url | Direct url of your telegram profile | No |
+| main_maintainer | Used in co-maintainer cases, set to true to keep your name at the top on the list of maintainers | No |
 
-### 6. Device tree
-Maintainers should upload the device tree on https://github.com/PixelExperience-Devices
+### 4. Device Image
+
+We need a .png image with transparent background with sane quality with at least the device front being shown for our website. Those will go to the images folder with the filename being called as <device_codename>.png.
+
+If you agree with everything, please [fill this form](https://forms.gle/b7kjDzsT2RrRh7WCA)
